@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">Sou Victoria Boschetti, apaixonada por desenvolvimento de jogos e criadora de conteúdo gamer. Minha jornada nos games começou aos 6 anos, quando fui apresentada ao universo dos jogos pelo meu pai. Desde então, a curiosidade sobre como os jogos são feitos nunca me deixou. Aos 13 anos, comecei a explorar o desenvolvimento de jogos digitais e, desde então, venho me dedicando a aprender e aprimorar minhas habilidades.<br><br>Fiz o curso de Desenvolvimento de Jogos na Escola Saga, em Guarulhos-SP, e me formei em Jogos Digitais pela Faculdade Eniac. Além disso, continuo investindo em minha formação por meio de cursos online e também estou aprimorando meu inglês para expandir meu alcance no mundo da tecnologia e do gamedev.<br><br>Atualmente, estou focada em programação, desenvolvimento de jogos, e exploração de novas tecnologias. Meu GitHub ainda está em construção, mas estou empolgada em compartilhar minha evolução e explorar novos projetos ao longo do tempo.<br><br>Se você tem dicas, sugestões ou recursos interessantes para compartilhar, ficarei super feliz em ouvir! 🚀</p>
 
 ###
@@ -58,6 +56,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="30" alt="twitter logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViihBoschetti&radius=16&theme=github-dark&area=true&order=5&custom_title=Atividades&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
